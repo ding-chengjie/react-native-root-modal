@@ -1,6 +1,6 @@
 {
     "version": "5.0.0-0.0.1",
-    "name": "react-native-root-modal",
+    "name": "@react-native-oh-tpl/react-native-root-modal",
     "description": "react native modal component",
     "license": "MIT",
     "repository": {
@@ -14,6 +14,9 @@
     "files": [
         "lib/"
     ],
+    "harmony": {
+        "alias": "react-native-root-modal"
+    },
     "keywords": [
         "react-component",
         "react-native",
